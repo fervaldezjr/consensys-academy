@@ -26,6 +26,10 @@ Este curso está enfocado en enseñar las bases y lo básico sobre blockchain.
 
 Blockchain es un conjunto de bloques de información conectados linealmente y protegidos mediante [criptografía][Criptografía wiki ES].
 
+A medida que se añaden nuevos bloques, los anteriores son más dificiles de modificar, por lo que son más seguros.
+
+![](./assets/simple-blockchain-diagram.png)
+
 [Bitcoin wiki ES]: https://es.wikipedia.org/wiki/Historia_de_bitcoin
 [Blockchain wiki ES]: https://es.wikipedia.org/wiki/Cadena_de_bloques
 [Búrbuja dot-com wiki ES]: https://es.wikipedia.org/wiki/Burbuja_puntocom
