@@ -30,6 +30,14 @@ A medida que se añaden nuevos bloques, los anteriores son más dificiles de mod
 
 ![](./assets/simple-blockchain-diagram.png)
 
+Los nodos, son las computadoras que ejecutan software blockchain, son los "contadores".
+
+Un [nodo][Nodo wiki ES] toma y comprueba transmiciones de transacciones a la red e intenta colocarlos a todos juntos dentro de un bloque, en una competencia contra otros nodos.
+
+## ¿Porqué blockchain es excitante?
+
+
+
 [Bitcoin wiki ES]: https://es.wikipedia.org/wiki/Historia_de_bitcoin
 [Blockchain wiki ES]: https://es.wikipedia.org/wiki/Cadena_de_bloques
 [Búrbuja dot-com wiki ES]: https://es.wikipedia.org/wiki/Burbuja_puntocom
@@ -38,3 +46,4 @@ A medida que se añaden nuevos bloques, los anteriores son más dificiles de mod
 [Consensys wiki EN]: https://en.wikipedia.org/wiki/Consensys
 [Ethereum wiki ES]: https://es.wikipedia.org/wiki/Ethereum
 [Criptografía wiki ES]: https://es.wikipedia.org/wiki/Criptograf%C3%ADa
+[Nodo wiki ES]: https://es.wikipedia.org/wiki/Nodo_(inform%C3%A1tica)
