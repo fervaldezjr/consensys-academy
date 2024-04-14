@@ -45,21 +45,20 @@ Un [nodo][Nodo wiki ES] toma y comprueba transmiciones de transacciones a la red
 
 | Año   | Blockchain                                                                                              | Bitcoin                                                | Ethereum                                                                     |
 |-------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------------------------------|
-| 1991  | Stuart Haber y Scott Stornetta trabajan en la primera cadena de bloques                               | NA                                                     | NA                                                                           |
-| 1992  | Árboles de Merkle formaron una corporación legal utilizando un sistema desarrollado por Stuart Haber y W. Scott Stornetta | NA                                                     | NA                                                                           |
-| 2000  | Stefan Konst publicó su teoría de cadenas seguras criptográficamente                                  | NA                                                     | NA                                                                           |
-| 2004  | El activista criptográfico Hal Finney introdujo el "Proof of Work" reutilizable                       | NA                                                     | NA                                                                           |
-| 2008  | Satoshi Nakamoto conceptualizó el concepto de "Cadena de bloques distribuida" en su libro blanco: "Un sistema de efectivo electrónico entre pares" | NA                                                     | NA                                                                           |
-| 2009  | James Howells, un trabajador de IT en el Reino Unido, comienza a minar Bitcoin. Satoshi Nakamoto publica el Libro Blanco de Bitcoin | NA                                                     | NA                                                                           |
-| 2014  | Nace Blockchain 2.0                                                                                  | NA                                                     | La cadena de bloques de Ethereum es financiada por una venta de tokens        |
-| 2015  | La Fundación Linux lanzó el proyecto Hyperledger                                                     | NA                                                     | Se lanzó la red Ethereum Frontier                                             |
+| 1991  | [Stuart Haber][Stuart Haber wiki EN] y [Scott Stornetta][Scott Stornetta wiki EN] trabajan en la primera cadena de bloques                               | NA                                                     | NA                                                                           |
+| 1992  | [Árboles de Merkle][Árboles de Merkle wiki ES] formaron una corporación legal utilizando un sistema desarrollado por Stuart Haber y W. Scott Stornetta | NA                                                     | NA                                                                           |
+| 2000  | [Stefan Konst][Konst site GE] publicó su [teoría de cadenas seguras criptográficamente][Teoría de cadenas seguras criptográficamente GE]                                  | NA                                                     | NA                                                                           |
+| 2004  | El activista criptográfico [Hal Finney][Hal Finney wiki ES] introdujo el ["Proof of Work" reutilizable][Proof of Work reutilizable EN]                       | NA                                                     | NA                                                                           |
+| 2008  | "Satoshi Nakamoto" conceptualizó el concepto de "Cadena de bloques distribuida" en su whitepaper: ["Un sistema de efectivo electrónico entre pares"][Satoshi - Un sistema de efectivo electrónico entre pares EN] | NA                                                     | NA                                                                           |
+| 2009  | James Howells, un trabajador de IT en el Reino Unido, comienza a minar Bitcoin. Satoshi Nakamoto publica el [Whitepaper de Bitcoin][Whitepaper Bitcoin ES] | NA                                                     | NA                                                                           |
+| 2014  | Nace [Blockchain 2.0][Blockchain 2.0 sciencedirect EN]                                                                                  | NA                                                     | La blockchain de [Ethereum][ethereu.org] es financiada por una venta de tokens        |
+| 2015  | [La Fundación Linux][The Linux fundation] lanzó [el proyecto Hyperledger][el proyecto Hyperledger]                                                     | NA                                                     | Se lanzó la red [Ethereum Frontier][Frontier network EN]                                             |
 | 2016  | Blockchain se acepta como una sola palabra en lugar de dos conceptos diferentes                      | El intercambio de bitcoins Bitfinex fue hackeado, resultando en el robo de 120,000 bitcoins | NA                                                                           |
-| 2017  | La compañía Block.one introdujo el sistema operativo de cadena de bloques EOS                         | Japón reconoció Bitcoin como una moneda legal         | NA                                                                           |
+| 2017  | La compañía Block.one introdujo el sistema operativo de [blockchain EOS][EOS EN]                         | [Japón reconoció Bitcoin como una moneda legal][Japón legaliza Bitcoin criptonoticias ES]         | NA                                                                           |
 | 2018  | Google, Twitter y Facebook prohibieron la publicidad de criptomonedas                                 | Bitcoin cumplió 10 años en 2018                       | NA                                                                           |
 | 2019  | NA                                                                                                  | NA                                                     | Las transacciones de la red Ethereum superaron el millón por día              |
-| 2020  | Los Stablecoins experimentaron un aumento                                                             | NA                                                     | Ethereum lanzó Beacon Chain en preparación para Ethereum 2.0                  |
-| 2022  | NA                                                                                                  | NA                                                     | Ethereum Merge. El mecanismo de consenso de Ethereum ahora es Prueba de Participación (PoS) |
-
+| 2020  | Los Stablecoins experimentaron un aumento                                                             | NA                                                     | Ethereum lanzó [Beacon Chain][Beacon Chain EN] en preparación para Ethereum 2.0                  |
+| 2022  | NA                                                                                                  | NA                                                     | [Ethereum Merge][Ethereum merge EN]. El mecanismo de consenso de Ethereum ahora es [Proof of Stake][Proof of Stake wiki EN] (PoS) |
 
 [Bitcoin wiki ES]: https://es.wikipedia.org/wiki/Historia_de_bitcoin
 [Blockchain wiki ES]: https://es.wikipedia.org/wiki/Cadena_de_bloques
@@ -70,3 +69,22 @@ Un [nodo][Nodo wiki ES] toma y comprueba transmiciones de transacciones a la red
 [Ethereum wiki ES]: https://es.wikipedia.org/wiki/Ethereum
 [Criptografía wiki ES]: https://es.wikipedia.org/wiki/Criptograf%C3%ADa
 [Nodo wiki ES]: https://es.wikipedia.org/wiki/Nodo_(inform%C3%A1tica)
+[Konst site GE]: http://www.konst.de/
+[Teoría de cadenas seguras criptográficamente GE]: http://www.konst.de/stefan/seclog.pdf
+[Árboles de Merkle wiki ES]: https://es.wikipedia.org/wiki/%C3%81rbol_de_Merkle
+[Proof of Work reutilizable EN]: https://nakamotoinstitute.org/finney/rpow/index.html
+[Hal Finney wiki ES]: https://es.wikipedia.org/wiki/Hal_Finney
+[Stuart Haber wiki EN]: https://en.wikipedia.org/wiki/Stuart_Haber
+[Scott Stornetta wiki EN]: https://en.wikipedia.org/wiki/W._Scott_Stornetta
+[Satoshi - Un sistema de efectivo electrónico entre pares EN]: https://bitcoin.org/bitcoin.pdf
+[Whitepaper Bitcoin ES]: https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf
+[Blockchain 2.0 sciencedirect EN]: https://www.sciencedirect.com/science/article/abs/pii/S006524582030070X
+[el proyecto Hyperledger]: https://www.hyperledger.org/about
+[The Linux fundation]: https://www.linuxfoundation.org/
+[ethereu.org]: https://ethereum.org/es/what-is-ethereum/
+[Frontier network EN]: https://ethereum.org/es/history/#frontier-thawing
+[EOS EN]: https://eosnetwork.com/about-us/
+[Japón legaliza Bitcoin criptonoticias ES]: https://www.criptonoticias.com/comunidad/adopcion/japon-legaliza-bitcoin-metodo-pago/
+[Beacon Chain EN]: https://wiki.rugdoc.io/es/docs/what-is-the-beacon-chain/
+[Ethereum merge EN]: https://ethereum.org/es/roadmap/merge/
+[Proof of Stake wiki EN]: https://en.wikipedia.org/wiki/Proof_of_stake
