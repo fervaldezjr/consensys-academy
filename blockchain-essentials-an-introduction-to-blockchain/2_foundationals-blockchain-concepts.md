@@ -84,7 +84,7 @@ La Prueba de trabajo (PoW) y la Prueba de participación (PoS) son dos de los me
 
 ### Tipos de mecanismos de consenso
 
-![Diferentes tipos de mecanismos de concensos - Crypto.com](image.png)
+![Diferentes tipos de mecanismos de concensos - Crypto.com](types-of-consensus.png)
 
 ## Funciones hash criptograficas
 
