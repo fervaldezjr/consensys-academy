@@ -57,7 +57,7 @@ Contura Energy, uno de los principales proveedores de carbón con sede en EE. UU
 
 Contura Energy comprende la importancia y el valor de digitalizar y automatizar el proceso de sus cartas de crédito. Sin embargo, el desafío al que se enfrentan es permitir la confianza y la verificación mutuas entre vendedores y compradores. Están trabajando con AWS en una innovación descentralizada basada en la cadena de bloques que proporciona un sistema más eficiente, económico y menos arriesgado para administrar los pagos del comercio internacional. Esta solución descentralizada también aumenta la transparencia, ya que brinda a todas las partes visibilidad en tiempo real de los datos y la documentación.
 
-[Más información sobre como Contura Energy utilizá Blockchain](Contura Energy - Forbes EN)
+[Más información sobre como Contura Energy utilizá Blockchain][Contura Energy - Forbes EN]
 
 ## Libros mayores o ledgers distribuidos
 
@@ -84,11 +84,26 @@ La Prueba de trabajo (PoW) y la Prueba de participación (PoS) son dos de los me
 
 ### Tipos de mecanismos de consenso
 
-![Diferentes tipos de mecanismos de concensos - Crypto.com](types-of-consensus.png)
+![Diferentes tipos de mecanismos de concensos - Crypto.com](./assets/types-of-consensus.png)
 
 ## Funciones hash criptograficas
 
-### Función hash
+- El input puede ser de cualquier tamaño. Desde bytes a GB.
+- *Determinista*: El mismo input siempre retornará el mismo output.
+- *Irreversible*: Nunca podremos obtener el input desde el output.
+- El output es una "huella"
+
+Existen muchos tipos de funciones hash, algunas son:
+
+- KECCAK-256 (256 output bits)
+- MD5 (128 output bits)
+- SHA-224 (224 output bits)
+- SHA-256 (256 output bits)
+- SHA-512 (512 output bits)
+
+Generalmente más bits significan más seguridad.
+
+Una colisión es cuando dos inputs diferentes generan un mismo output. Esto es algo bastante improbable.
 
 
 
