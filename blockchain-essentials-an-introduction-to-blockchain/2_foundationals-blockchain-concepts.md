@@ -91,7 +91,9 @@ La Prueba de trabajo (PoW) y la Prueba de participación (PoS) son dos de los me
 - El input puede ser de cualquier tamaño. Desde bytes a GB.
 - *Determinista*: El mismo input siempre retornará el mismo output.
 - *Irreversible*: Nunca podremos obtener el input desde el output.
-- El output es una "huella"
+- El output es una "huella" del input.
+- El output cambia drasticamente con cualquier modificación en el input.
+- Tiene un costo computacional muy bajo, lo cual se traduce en que es muy rápida.
 
 Existen muchos tipos de funciones hash, algunas son:
 
@@ -105,6 +107,11 @@ Generalmente más bits significan más seguridad.
 
 Una colisión es cuando dos inputs diferentes generan un mismo output. Esto es algo bastante improbable.
 
+## Criptografía de Clave Pública
 
+La clave pública, como su nombre indica, es pública y se debe distribuir a quienes desean comunicarse con nosotros. Tanto si sirve para cifrar mensajes como para comprobar la autenticación. La clave privada no debe distribuirse a nadie, y sirve para descifrar el mensaje que ha sido cifrado con la clave pública.
+
+[Más información sobre la Criptografía de Clave Pública][Criptografía de Clave Pública - Wiki EN]
 
 [Contura Energy - Forbes EN]: https://www.forbes.com/sites/amazonwebservices/2019/12/10/improving-international-trade-with-blockchain/?sh=3f05e4391254
+[Criptografía de Clave Pública - Wiki EN]: https://en.wikipedia.org/wiki/Public-key_cryptography
